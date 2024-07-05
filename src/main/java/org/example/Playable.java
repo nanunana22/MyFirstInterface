@@ -1,2 +1,5 @@
-package org.example;public interface Playable {
+package org.example;
+
+public interface Playable {
+    void play();
 }
